@@ -1,0 +1,4 @@
+qiskit
+qiskit_aer
+qiskit_algorithms
+numpy
